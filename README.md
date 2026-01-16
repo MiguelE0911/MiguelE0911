@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Miguel
 
-<!--
-**MiguelE0911/MiguelE0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante universitario de **Desarrollo y Gestión de Software**, apasionado por la programación y por construir soluciones bien estructuradas usando **Java y Programación Orientada a Objetos**.
+Actualmente me encuentro fortaleciendo mis bases en estructuras de datos, diseño de software y buenas prácticas, con el objetivo de convertirme en un desarrollador sólido y bien preparado para el mundo profesional.
 
-Here are some ideas to get you started:
+## 🎓 Formación académica
+- Licenciatura en **Desarrollo y Gestión de Software**
+- Enfoque actual:
+  - Programación Orientada a Objetos
+  - Estructuras de Datos
+  - Desarrollo de aplicaciones en Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías y conocimientos
+
+**Lenguajes**
+- Java (principal)
+- Python
+- C++
+- HTML & CSS
