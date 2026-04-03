@@ -36,6 +36,7 @@ Git · Vercel · IntelliJ IDEA · VSCode
 
 ### 🛍️ Forty Five Jewelry — E-commerce de joyería panameña
 > Stack: Next.js 15 · TypeScript · Supabase (PostgreSQL) · Three.js · Vercel
+[![Vista previa](assets/forty-five-preview.png)](https://forty-five-jewelry.vercel.app/)
 
 Plataforma de comercio electrónico completa desarrollada para una marca local panameña.
 Incluye catálogo de productos, flujo de pedido con validación server-side, panel de
