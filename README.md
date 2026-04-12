@@ -1,61 +1,51 @@
-# 👋 Hola, soy Miguel
+# Hello, I'm Miguel 👋
 
-Estudiante de **Desarrollo y Gestión de Software** con experiencia práctica construyendo
-proyectos reales. Me interesa escribir código que funcione bien y tenga sentido para quien lo use.
-
----
-
-## 🎓 Formación
-
-Licenciatura en **Desarrollo y Gestión de Software** (en curso)
-
-Áreas de enfoque actual:
-- Programación Orientada a Objetos y estructuras de datos
-- Bases de datos relacionales
-- Desarrollo web full-stack
+I am a **Software Development & Management** student focused on building scalable, real-world applications. I prioritize clean code, performance, and intuitive user experiences.
 
 ---
 
-## 🛠️ Tecnologías
+### 🧠 Currently learning
+- **Object-Oriented Programming and Data Structures**
+- **Relational Databases**
+- **Full-Stack Web Development**
 
-**Lenguajes**
-Java · Python · C++ · JavaScript · TypeScript · HTML & CSS · SQL
+### 🛠️ Skills
 
-**Frontend**
-Next.js 15 · React · Tailwind CSS · Three.js
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Backend & Datos**
-PostgreSQL · MySQL · SQL Server · Supabase · JDBC · Row Level Security
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-**Herramientas**
-Git · Vercel · IntelliJ IDEA · VSCode
-
----
-
-## 📂 Proyecto destacado
-
-### 🛍️ Forty Five Jewelry — E-commerce de joyería panameña
-> Stack: Next.js 15 · TypeScript · Supabase (PostgreSQL) · Three.js · Vercel
-[![Vista previa](assets/forty-five-preview.png)](https://forty-five-jewelry.vercel.app/)
-
-Plataforma de comercio electrónico completa desarrollada para una marca local panameña.
-Incluye catálogo de productos, flujo de pedido con validación server-side, panel de
-administración protegido por middleware, y visualizador 3D interactivo.
-
-**Lo más técnico:**
-- Visualizador 3D con WebGL/Three.js — geometría de revolución, iluminación PBR,
-  rotación por quaterniones e interpolación lerp para transiciones suaves
-- Sistema de temas claro/oscuro con CSS custom properties reactivas (sin librerías externas)
-- Autenticación con middleware de Next.js — protección de rutas y manejo de sesiones
-- Flujo de pedido completo: validación server-side → inserción → stock → notificación por email
-- Row Level Security en Supabase como capa de seguridad independiente del código
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📌 Sobre mí
+## 📂 Featured Project
 
-Soy de Panamá y aprendo mejor construyendo cosas reales.
-Actualmente busco seguir desarrollando criterio técnico sólido —
-tanto en el código como en las decisiones de diseño y arquitectura.
+### 🛍️ Forty Five Jewelry — Panamanian E-commerce
+> **Stack:** Next.js 15, TypeScript, Supabase (PostgreSQL), Three.js, Vercel.
+> [Live Demo](https://forty-five-jewelry.vercel.app/)
 
-Abierto a colaborar en proyectos interesantes o aprender de desarrolladores con experiencia.
+Complete e-commerce platform developed for a local Panamanian brand. It features a full product catalog, server-side validated order flows, and an admin dashboard protected via middleware.
+
+**Technical Highlights:**
+* **3D Visualization:** WebGL/Three.js implementation using revolution geometry, PBR materials, quaternion-based rotation, and `lerp` interpolation for smooth transitions.
+* **Architecture:** Custom reactive theme system via CSS custom properties (zero-dependency).
+* **Security:** Next.js Middleware for session handling and **Row Level Security (RLS)** in Supabase as a database-native security layer.
+* **Order Workflow:** Server-side validation → ACID transaction (Insert/Stock Update) → Email notification.
+
+---
+
+## 🔍 Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/miguel-aparicio-11n-09t-06y/))
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([YOUR_GITHUB_URL](https://github.com/MiguelE0911))
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelaparicio0911@gmail.com)
