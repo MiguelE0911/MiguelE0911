@@ -46,6 +46,6 @@ Complete e-commerce platform developed for a local Panamanian brand. It features
 
 ## 🔍 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/miguel-aparicio-11n-09t-06y/))
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([YOUR_GITHUB_URL](https://github.com/MiguelE0911))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-aparicio-11n-09t-06y/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelE0911)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelaparicio0911@gmail.com)
