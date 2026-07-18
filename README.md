@@ -17,33 +17,11 @@ I am a **Software Development & Management** student focused on building scalabl
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-
----
-
-## 📂 Featured Project
-
-### 🛍️ Forty Five Jewelry — Panamanian E-commerce
-> **Stack:** Next.js 15, TypeScript, Supabase (PostgreSQL), Three.js, Vercel.
-> [![Live Page](assets/forty-five-preview.png)](https://forty-five-jewelry.vercel.app/)
-
-Complete e-commerce platform developed for a local Panamanian brand. It features a full product catalog, server-side validated order flows, and an admin dashboard protected via middleware.
-
-**Technical Highlights:**
-* **3D Visualization:** WebGL/Three.js implementation using revolution geometry, PBR materials, quaternion-based rotation, and `lerp` interpolation for smooth transitions.
-* **Architecture:** Custom reactive theme system via CSS custom properties (zero-dependency).
-* **Security:** Next.js Middleware for session handling and **Row Level Security (RLS)** in Supabase as a database-native security layer.
-* **Order Workflow:** Server-side validation → ACID transaction (Insert/Stock Update) → Email notification.
 
 ---
 
