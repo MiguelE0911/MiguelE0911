@@ -1,6 +1,6 @@
-# Hi there! I'm a Software Development & Management student 🇵🇦 
+# Hi there! I'm Miguel👋
 
-🎓 **Student at Universidad Tecnológica de Panamá (UTP)** Bridging theoretical foundations with practical software engineering. I focus on building robust applications, designing resilient infrastructure, and solving complex system challenges.
+**Student at Universidad Tecnológica de Panamá (UTP)** Bridging theoretical foundations with practical software engineering. I focus on building robust applications, designing resilient infrastructure, and solving complex system challenges.
 
 ---
 
